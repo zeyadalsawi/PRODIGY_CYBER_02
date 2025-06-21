@@ -1,0 +1,7 @@
+Pillow
+# For advanced themes and widgets
+ttkthemes
+# For drag and drop support
+TkinterDnD2
+# For localization (if needed)
+babel
